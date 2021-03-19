@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.060767">
+<testcase classname="CRUD operations for REST API" name="creating employee records successfully" time="0.060767">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given user sends the below details for creating the contanct................undefined
+]]></failure>
+</testcase>
+</testsuite>

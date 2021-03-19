@@ -1,0 +1,64 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-03-18T17:13:58.689Z",
+        "line": 13,
+        "name": "creating employee records successfully",
+        "description": "",
+        "id": "crud-operations-for-rest-api;creating-employee-records-successfully;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user sends the below details for creating the contanct",
+            "match": {},
+            "rows": [
+              {
+                "cells": [
+                  "firstName",
+                  "John"
+                ]
+              },
+              {
+                "cells": [
+                  "secondName",
+                  "\u003csecondName"
+                ]
+              },
+              {
+                "cells": [
+                  "designation",
+                  "Associate"
+                ]
+              },
+              {
+                "cells": [
+                  "salary",
+                  "10000"
+                ]
+              }
+            ],
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "CRUD operations for REST API",
+    "description": "",
+    "id": "crud-operations-for-rest-api",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/com/resources/CrudOperations.feature",
+    "tags": []
+  }
+]
